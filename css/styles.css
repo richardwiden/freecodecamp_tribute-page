@@ -1,0 +1,22 @@
+div.quote {
+    margin: 0 20%;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
